@@ -1,0 +1,24 @@
+# =======================================================
+#           SocialsManager v1.0
+#           By HyperfireRS (Hyperfire#0298)
+#
+# Color codes are supported.
+# Want another platform added? Let me know, i'll add it as soon as possible!
+# =======================================================
+
+discord: 'Join the discord here: discord.gg/'
+website: 'Our website: https://example.com'
+twitter: 'Our twitter: @example'
+store: 'Store: lol'
+socials: |-
+  Discord: lol
+  Website: lol
+  Twitter: lol
+  Store: lol
+
+motd:
+  enabled: true
+  message: |-
+    &7&m----------------------------------
+    &aWelcome!
+    &7&m----------------------------------

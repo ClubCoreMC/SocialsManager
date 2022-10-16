@@ -1,0 +1,16 @@
+name: SocialsManager
+version: '${project.version}'
+main: me.hyperfirers.socialsmanager.SocialsManager
+authors: [ HyperfireRS ]
+description: A basic plugin to manage social commands (/discord, /website, etc) and message of the day (join message).
+commands:
+  discord:
+    description: Get the server's Discord server.
+  socials:
+    description: Get all the socials for a server.
+  store:
+    description: Get the store link for the server.
+  twitter:
+    description: Get the server's twitter link.
+  website:
+    description: Get the server's website.
